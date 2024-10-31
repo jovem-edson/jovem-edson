@@ -40,9 +40,9 @@
 ---
 
 ### 🎸 Curiosidades sobre mim
-- 🎲 Sou fascinado por jogos no estilo **soulslike** e estou trabalhando em um projeto inspirado no **Velho Oeste** com toques de **dark fantasy**
-- 📜 Gosto de criar histórias e mundos fictícios, como o mundo **Onirica** 🌌, que é uma mistura de alta tecnologia e estética de Velho Oeste
-- 🏞️ Meu sonho é ter um rancho e cuidar de animais, especialmente **cavalos** 🐴 e **galinhas** 🐔
+- 🎵 Sou fascinado por músicas e adoro Rock
+- 📜 Amo história e ouvir experiências de outras pessoas
+- 🏞️ Meu sonho é viajar o mundo e conhecer novas culturas
 
 ---
 
