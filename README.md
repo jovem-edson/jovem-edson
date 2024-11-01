@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Edson! 
+# 👋 Olá, eu sou Edson ! 
 ♨ "Você ainda está aí?" ♨ 
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre mim 🤓
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Senac 🎒
 - 💼 Atualmente, sou Aprendiz Administrativo na Apsen Farmacêutica S/A 💊
 - 💻 Explorando o mundo do desenvolvimento web e navegação por Banco de Dados 🎲
