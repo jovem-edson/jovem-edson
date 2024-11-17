@@ -34,7 +34,8 @@
   - Um projeto destinado a uma designer apaixonada por sua profissão que deseja expandir e divulgar seu trabalho. 
   - 🔹 **Stack**: Node.js, JavaScript, React, SCSS, JWT
 
-#### 🏇 [Gerenciador de Estábulo](https://github.com/jovem-edson/Projeto-Integrador-4)
+#### 🏇 [Gerenciador de Estábulo - Front](https://github.com/jovem-edson/Projeto-Integrador-4)
+#### 🏇 [Gerenciador de Estábulo - Back](https://github.com/jovem-edson/Projeto-Integrador-4)
   - Sistema para gerenciamento de estábulos com cavalos, provisões e acessórios.
   - 🔹 **Stack**: Spring Boot, Java, H2 Database
 
