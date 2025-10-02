@@ -3,7 +3,7 @@
 ♨ "Você ainda está aí?" ♨ 
 
 ### 🧑‍💻 Sobre mim 🤓
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Senac 🎒
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Senac 🎒
 - 💼 Atualmente, sou Aprendiz Administrativo na Apsen Farmacêutica S/A 💊
 - 💻 Explorando o mundo do desenvolvimento web e navegação por Banco de Dados 🎲
 - 🌟 Interesse especial por **Banco de Dados**, projetos envolvendo **Saúde e Tecnologia**, e **Sistemas Web** 🌐
@@ -21,7 +21,8 @@
 </p>
 
 ### 🌱 Atualmente estou aprendendo
-- Consultas Avançadas para **SQL Server**
+- Consultas Avançadas em **SQL** para o Snowflake
+- Framework **dbt**
 - Técnicas com **Spring Boot e Angular**
 - **Node.js avançado** para integração de APIs e microsserviços
 
@@ -49,7 +50,7 @@
 ---
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/edson-correia-531667239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/edsoncorreia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edsoncorreia997@gmail.com)
 
 ---
