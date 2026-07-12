@@ -1,59 +1,112 @@
-# 👋 Olá, eu sou Edson ! 
+<div align="center">
 
-♨ "Você ainda está aí?" ♨ 
+# JOVEM EDSON
 
-### 🧑‍💻 Sobre mim 🤓
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Senac 🎒
-- 💼 Atualmente, sou Aprendiz Administrativo na Apsen Farmacêutica S/A 💊
-- 💻 Explorando o mundo do desenvolvimento web e navegação por Banco de Dados 🎲
-- 🌟 Interesse especial por **Banco de Dados**, projetos envolvendo **Saúde e Tecnologia**, e **Sistemas Web** 🌐
-  
-### 🚀 Tecnologias e Ferramentas
+### Data Engineering • Analytics Engineering • Python • Snowflake
+
+*"Build data. Keep it simple."*
+
+</div>
+
+---
+
+## About
+
+I'm a Data & Analytics assistant focused on building modern data platforms and scalable analytical solutions.
+
+Currently working with data engineering, analytics and cloud technologies, designing ETL pipelines, data models and semantic layers that transform raw data into reliable business insights.
+
+My main interests are:
+
+- Data Engineering
+- Analytics Engineering
+- Cloud Data Warehouses
+- Data Modeling
+- AI & LLM Applications for Data
+- Automation with Python
+
+---
+
+## Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B4E8?style=flat&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,github,vscode,azure,postgres,mysql"/>
+
 </p>
 
-### 🌱 Atualmente estou aprendendo
-- Consultas Avançadas em **SQL** para o Snowflake
-- Framework **dbt**
-- Técnicas com **Spring Boot e Angular**
-- **Node.js avançado** para integração de APIs e microsserviços
+<p>
+
+<img src="https://img.shields.io/badge/Snowflake-111111?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-111111?style=for-the-badge&logo=mssqlserver-white&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/dbt-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-111111?style=for-the-badge&logo=power-bi&logoColor=fff"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 
 ---
 
-### 🎲 Projetos em destaque
+## Current Focus
 
-#### 👩‍🦰 [Heather Designer - Front](https://github.com/jovem-edson/frontEnd-heatherdesigner)
-#### 👩‍🦰 [Heather Designer - Back](https://github.com/jovem-edson/backEnd-heatherdesigner)
-  - Um projeto destinado a uma designer apaixonada por sua profissão que deseja expandir e divulgar seu trabalho. 
-  - 🔹 **Stack**: Node.js, JavaScript, React, SCSS, JWT
-
-#### 🏇 [Gerenciador de Estábulo - Front](https://github.com/jovem-edson/Projeto-Integrador-4)
-#### 🏇 [Gerenciador de Estábulo - Back](https://github.com/jovem-edson/Projeto-Integrador-4)
-  - Sistema para gerenciamento de estábulos com cavalos, provisões e acessórios.
-  - 🔹 **Stack**: Spring Boot, Java, H2 Database
-
----
-
-### 🎸 Curiosidades sobre mim
-- 🎵 Sou fascinado por músicas e adoro Rock
-- 📜 Amo história e ouvir experiências de outras pessoas
-- 🏞️ Meu sonho é viajar o mundo e conhecer novas culturas
+- Python
+- Snowflake
+- dbt
+- SQL Performance
+- Data Warehousing
+- ETL Pipelines
+- Semantic Models
+- AI Agents for Analytics
 
 ---
 
-### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsoncorreia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edsoncorreia997@gmail.com)
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jovem-edson&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jovem-edson&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BDBDBD"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jovem-edson&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jovem-edson&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&hide_border=true"/>
+
+</p>
 
 ---
-<p align="center">👁️ Você está pronto para cruzar a fronteira? 👁️</p>
 
+## Connect
 
+<p>
+
+<a href="https://www.linkedin.com/in/edsoncorreia">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin-white&logoColor=fff)"/>
+</a>
+
+<a href="mailto:iwakuraella@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Everything I'm not made me everything I am."*
+
+</div>
